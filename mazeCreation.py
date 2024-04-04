@@ -98,12 +98,16 @@ imagedata, images, graphs = create_dataset((3, 3), 10)
 
 
 def dataGen(size, num_mazes):
-    imagedata, images, graphs = create_dataset((3, 3), 10)
+
+    imagedata, images, graphs = create_dataset(size, num_mazes)
+    print("---------data")
+    print(imagedata)
     imageLetterss = []
     for i in range(len(imagedata)):
         imageletter, start, last = replace_with_unique_letters(imagedata[0])
         data = [imageletter, start, last]
         imageLetterss.append(data)
+
     return imageLetterss, images, graphs
 
 
@@ -116,17 +120,22 @@ show_graph_and_images(graphstest[0], imagestest[0])
 '''
 
 
-def find_adjacent_letters(matrix, letter):
+def find_adjacent_letters(matrix, letter, past):
+    adjacent_letters = []
+    Correspond = []
     # Find the position of the start letter
     start_pos = np.where(matrix == letter)
     if start_pos[0].size == 0:
-        return "Start letter not found in the matrix."
+        Correspond.append('go back to the last room')
+        adjacent_letters.append(past)
+        return adjacent_letters, Correspond
 
     # Coordinates of the start letter
     start_row, start_col = start_pos[0][0], start_pos[1][0]
 
     # Vector to store adjacent letters
     adjacent_letters = []
+    Correspond = []
 
     # Check each direction (up, down, left, right) for adjacent letters
     directions = [(0, -1), (0, 1), (-1, 0), (1, 0)]  # Left, Right, Up, Down
@@ -137,5 +146,17 @@ def find_adjacent_letters(matrix, letter):
             adjacent_value = matrix[new_row, new_col]
             if adjacent_value not in [0] and isinstance(adjacent_value, str):
                 adjacent_letters.append(adjacent_value)
+                if (past == adjacent_value):
+                    Correspond.append('go back to the last room')
+                elif (dr == 1 and dc == 0):
+                    Correspond.append('go at the bottom')
+                elif (dr == -1 and dc == 0):
+                    Correspond.append('go up')
+                elif (dr == 0 and dc == 1):
+                    Correspond.append('go right')
+                elif (dr == 0 and dc == -1):
+                    Correspond.append('go left')
 
-    return adjacent_letters
+    print(adjacent_letters + Correspond)
+
+    return adjacent_letters, Correspond
