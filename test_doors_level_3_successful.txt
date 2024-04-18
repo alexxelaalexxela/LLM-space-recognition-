@@ -1,0 +1,46 @@
+User message: You are in room 3. To your right, there is door leading to room 2. To your left, there is a door leading to room 4. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 4
+User message: You are in room 4. To your right, there is door leading to room 6. In front of you, there is a door leading to room 5. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 6
+User message: You are in room 6. In front of you, there is door leading to room 11. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 11
+User message: You are in room 11. To your right, there is door leading to room 10. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 10
+User message: You are in room 10. In front of you, there is door leading to room 9. To your left, there is a door leading to room 14. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 14
+User message: You are in room 14. In front of you, there is door leading to room 16. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 16
+User message: You are in room 16. To your left, there is door leading to room 17. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 17
+User message: You are in room 17. In front of you, there is door leading to room 18. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 18
+User message: You are in room 18. There is no new door. Where would you like to go next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 17
+User message: You are in room  17.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 16
+User message: You are in room  16.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 14
+User message: You are in room  14.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 10
+User message: You are in room  10.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 9
+User message: You are in room 9. In front of you, there is door leading to room 8. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 8
+User message: You are in room 8. To your left, there is door leading to room 13. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 13
+User message: You are in room 13. In front of you, there is door leading to room 15. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 15
+User message: You are in room 15. You have reached the goal. Well done!
+User message: You reached the goal, well done! Now imagine that when you entered room 16 for the first time, there was a door on your right connecting the room to room 15, is there any other way to reach the exit? If yes, please provide the room sequence.
+Model's choice: Congratulations! You have reached your goal, room 15. Great job on solving the maze!
+User message: What is the sequence of movement and room that you followed to reach the goal ?
+Model's choice: The sequence of rooms I followed was: 
+3 - 4 - 6 - 11 - 10 - 14 - 16 - 17 - 18 - 17 - 16 - 14 - 10 - 9 - 8 - 13 - 15
+
+This brought me to the goal.
+User message: Nice, And so now if there was a door that connects room 16 to room 15, what sequence could you have taken to reach the goal faster ?
+Model's choice: The faster sequence, if room 16 is connected to room 15, would be: 
+3 - 4 - 6 - 11 - 10 - 14 - 16 - 15
+
+This route would have shortcut right to the goal from room 16.
+User message: STOP

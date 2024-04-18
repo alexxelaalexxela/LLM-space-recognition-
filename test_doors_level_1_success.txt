@@ -1,0 +1,21 @@
+User message: You are in room 2. To your left, there is door leading to room 3. To your right there is a door leading to room 1. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 3
+User message: You are in room 3. To your right, there is door leading to room 5. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 5
+User message: You are in room 5. You have reached the goal. Well done!
+
+
+
+User message: You are in room 2. To your left, there is door leading to room 3. To your right there is a door leading to room 1. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 3
+User message: You are in room 3. To your right, there is door leading to room 5. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 5
+User message: You are in room 5, There is no new door. Where would you like to go next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 3
+User message: You are in room  3.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 2
+User message: You are in room 2. To your left, there is door leading to room 3. To your right there is a door leading to room 1. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 1
+User message: You are in room 1. To your left, there is door leading to room 4. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 4
+User message: You are in room 4. You have reached the goal. Well done!

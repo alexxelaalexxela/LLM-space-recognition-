@@ -1,0 +1,29 @@
+User message: You are in room 3. To your right, there is door leading to room 2. To your left, there is a door leading to room 4. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 4
+User message: You are in room 4. To your right, there is door leading to room 6. In front of you, there is a door leading to room 5. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 5
+User message: You are in room 5. To your right, there is door leading to room 7. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 7
+User message: You are in room 7. In front of you, there is door leading to room 12. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 12
+User message: You are in room 12. There is no new door. Where would you like to go next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 7
+User message: You are in room  7.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 5
+User message: You are in room  5.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 4
+User message: You are in room  4.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 6
+User message: You are in room 6. In front of you, there is door leading to room 11. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 11
+User message: You are in room 11. To your right, there is door leading to room 10. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 10
+User message: You are in room 10. In front of you, there is door leading to room 9. To your left, there is a door leading to room 14. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 9
+User message: You are in room 9. In front of you, there is door leading to room 8. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 8
+User message: You are in room 8. To your left, there is door leading to room 13. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 13
+User message: You are in room 13. In front of you, there is door leading to room 15. Which room would you like to enter next? VERY IMPORTANT: Answer only the room number you choose and nothing else.
+Model's choice: 15
+User message: You are in room 15. You have reached the goal. Well done!

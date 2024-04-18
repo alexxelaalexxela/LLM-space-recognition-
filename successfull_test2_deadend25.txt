@@ -1,0 +1,36 @@
+User message: You are on square 3. To your left, square 4 is free; to your right, square 2 is free; in front of you, square 8 is occupied; behind you, there is no square. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 4
+User message: You are on square 4. To your left, square there is no square; to your right, square 9 is free; in front of you, square 5 is free; behind you, square 3 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 9
+User message: You are on square 9. To your left, square 10 is free; to your right, square 8 is occupied; in front of you, square 14 is free; behind you, square 4 is free. Where will you go? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 10
+User message: You are on square 10. To your left, there is no square; to your right, square 9 is free; in front of you, square 15 is free; behind you, square 5 is free. Where will you go? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 15
+User message: You are on square 15. To your left, there is no square; to your right, square 14 is free; in front of you, square 20 is occupied; behind you, square 10 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 14
+User message: You are on square 14. To your left, square 15 is free; to your right, square 13 is free; in front of you, square 19 is occupied; behind you, square 9 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 13
+User message: You are on square 13. To your left, square 18 is free; to your right, square 8 is occupied; in front of you, square 12 is free; behind you, square 14 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 18
+User message: You are on square 18. To your left, square 19 is occupied; to your right, square 17 is occupied; in front of you, square 23 is free; behind you, square 13 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 23
+User message: You are on square 23. To your left, square 24 is free; to your right, square 22 is occupied; in front of you, there is no square; behind you, square 18 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 24
+User message: You are on square 24. To your left, square 19 is occupied; to your right, there is no square ; in front of you, square 25 is free; behind you, there is no square. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 25
+User message: You are on square 25. To your left, square 20 is occupied; to your right, there is no square ; in front of you, there is no square ; behind you, square 24 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 24
+User message: You are on square  24.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible square. VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 23
+User message: You are on square  23.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible square. VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 18
+User message: You are on square  18.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible square. VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 13
+User message: You are on square  13.0. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible square. VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 12
+User message: You are on square 12. To your left, square 17 is occupied; to your right, square 7 is occupied; in front of you, square 11 is free; behind you, square 13 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 11
+User message: You are on square 11. To your left, square 16 is free; to your right, square 6 is occupied; in front of you, there is no square ; behind you, square 12 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 16
+User message: You are on square 16. To your left, square 17 is occupied; to your right, there is no square ; in front of you, square 21 is free; behind you, square 11 is free. Where will you go ? VERY IMPORTANT: Answer only the number you choose and nothing else.
+Model's choice: 21
