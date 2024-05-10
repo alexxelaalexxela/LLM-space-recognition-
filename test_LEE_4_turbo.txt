@@ -1,0 +1,40 @@
+User message: You are in the "entrance hall". In front of you there is a "desk area E" and "corridor E", to your right there is an "open space", behind you there is the "street". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor E
+User message: You are in the "corridor E". In front of you there is "corridor E2", to your right there is "lift E", to your left there are "stairs E". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor E2
+User message: You are in the "corridor E2". In front of you there is "room E226" and the "Street". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room E226
+User message: You are in the "room E226". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor E2
+User message: You are in the  corridor E2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor E
+User message: You are in the  corridor E. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs E
+User message: You are in the "stairs E". In front of you there is "corridor E".You can go up to floor F by saying "stairs F", or go down to floor D by saying "stairs D". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs F
+User message: You are in the "stairs F". In front of you there is "corridor F".You can go down to floor E by saying "stairs E", or you can go up to floor G by saying "stairs G". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs E
+User message: You are in the  stairs E. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor E
+User message: You are in the  corridor E. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: lift E
+User message: You are in the "lift E". In front of you there is "corridor E".You can reach every floor of the building: floor D by saying "lift D", floor E by saying "lift E", floor F by saying "lift F", floor G by saying "lift G", floor H by saying "lift H". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: lift H
+User message: You are in the "lift H". In front of you there is "corridor H".You can reach every floor of the building: floor D by saying "lift D", floor E by saying "lift E", floor F by saying "lift F", floor G by saying "lift G", floor H by saying "lift H". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H
+User message: You are in the "corridor H". In front of you there is "corridor H".To your right there is "lift H" and the "bathroom H", to your left there are "stairs H", in front of you there is "corridor H N1", behind you there is "corridor H S1". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N1
+User message: You are in the "corridor H N1". To your right there is the "open space H", to your left there is "corridor H N2", in front of you there is "room H223" and "room H222". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N2
+User message: You are in the "corridor H N2". Behind you there is "corridor H S2", in front of you there is "room H219". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S2
+User message: You are in the "corridor H S2". In front of you there is "corridor H N2", behind you there is "room H207" and "room H210", to your left there is "corridor H S1". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H207
+User message: You are in the "room H207". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S2
+User message: You are in the  corridor H S2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S1
+User message: You are in the "corridor H S1". To your left there is "open space H", to your right there is "corridor H S2", behind you there is "room H204" and "room H205". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H203
+User message: Oh here is the room. Well done!
+User message: STOP

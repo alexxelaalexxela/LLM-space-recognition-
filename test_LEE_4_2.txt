@@ -1,0 +1,62 @@
+User message: You are in the "entrance hall". In front of you there is a "desk area E" and "corridor E", to your right there is an "open space", behind you there is the "street". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor E
+User message: You are in the "corridor E". In front of you there is "corridor E2", to your right there is "lift E", to your left there are "stairs E". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs E
+User message: You are in the "stairs E". In front of you there is "corridor E".You can go up to floor F by saying "stairs F", or go down to floor D by saying "stairs D". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs F
+User message: You are in the "stairs F". In front of you there is "corridor F".You can go down to floor E by saying "stairs E", or you can go up to floor G by saying "stairs G". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs G
+User message: You are in the "stairs G". In front of you there is "corridor G".You can go down to floor F by saying "stairs F", or you can go up to floor H by saying "stairs H". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: stairs H
+User message: You are in the "stairs H". You can go down to floor G by saying "stairs G". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H
+User message: You are in the "corridor H". In front of you there is "corridor H".To your right there is "lift H" and the "bathroom H", to your left there are "stairs H", in front of you there is "corridor H N1", behind you there is "corridor H S1". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N1
+User message: You are in the "corridor H N1". To your right there is the "open space H", to your left there is "corridor H N2", in front of you there is "room H223" and "room H222". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N2
+User message: You are in the "corridor H N2". Behind you there is "corridor H S2", in front of you there is "room H219". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S2
+User message: You are in the "corridor H S2". In front of you there is "corridor H N2", behind you there is "room H207" and "room H210", to your left there is "corridor H S1". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S1
+User message: You are in the "corridor H S1". To your left there is "open space H", to your right there is "corridor H S2", behind you there is "room H204" and "room H205". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H204
+User message: You are in the "room H204". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S1
+User message: You are in the  corridor H S1. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H205
+User message: You are in the "room H205". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S1
+User message: You are in the  corridor H S1. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S2
+User message: You are in the  corridor H S2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H210
+User message: You are in the "room H210". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S2
+User message: You are in the  corridor H S2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H207
+User message: You are in the "room H207". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H S2
+User message: You are in the  corridor H S2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N2
+User message: You are in the  corridor H N2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N1
+User message: You are in the  corridor H N1. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H223
+User message: You are in the "room H223". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N1
+User message: You are in the  corridor H N1. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H222
+User message: You are in the "room H222". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: corridor H N1
+User message: You are in the  corridor H N1. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: open space H
+User message: You are in the "open space H". To your right there is "corridor H N1" and "corridor H S1", to your left there is the "rooftop", behind you there is "room H203". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: room H203
+User message: Oh here is the room. Well done!
+User message: What path did you take to get there ? So you can explain it to another student ?
+Model's choice: Starting from the entrance hall, I went to the "corridor E", then took the "stairs E" to reach "stairs F", from there I went up to "stairs G". I continued up to "stairs H" and went to "corridor H". From there, I proceed to "corridor H N1" then to "corridor H N2". Having found no rooms there, I proceeded down to "corridor H S2", then to "corridor H S1". After checking rooms "H204" and "H205", I returned to "corridor H S2" to check out "room H210" and "room H207". Unsuccessful again, I returned to "corridor H N2" and then to "corridor H N1". After looking into "room H223" and "room H222", I found myself in "open space H". Finally, behind me, I found "room H203".
+User message: But what is the fastest and direct path to reach the room from the entrance ?
+Model's choice: The fastest and most direct path to reach room H203 from the entrance hall would be: Go to the "corridor E", then take the "stairs E", go up to "stairs F" then to "stairs G", and next to "stairs H". From there, go to "corridor H", continue on to "corridor H S1". From there, go directly to the "open space H", and "room H203" is right behind it.
+User message: Nice
+Model's choice: Thank you! If you have any other questions or need further directions, feel free to ask!
+User message: STOP

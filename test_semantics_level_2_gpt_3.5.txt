@@ -1,0 +1,15 @@
+User message: You are in the "Entrance". To your right, there is door leading to the "Living room". To your left, there is a door leading to the "Garage". Which room would you like to enter next? VERY IMPORTANT: Answer only the room name you choose and nothing else.
+Model's choice: Living room
+User message: You are in the "Living room". In front of you, there is door leading to the "Bedroom 1". Which room would you like to enter next? VERY IMPORTANT: Answer only the room name you choose and nothing else.
+Model's choice: Bedroom 1
+User message: You are in the "Bedroom 1". There is no new door. Where would you like to go next? VERY IMPORTANT: Answer only the room name you choose and nothing else.
+Model's choice: I am in Bedroom 1 and I would like to go to the "Bathroom".
+User message: There is no Bathroom attached to Bedroom 1, let's continue the exploration somewhere else
+Model's choice: I am in Bedroom 1. I will go back to the "Living room".
+User message: You are now in the living room, where would you likee to go ?
+Model's choice: I am in the living room. I will go to the "Kitchen".
+User message: What were your option when you were in the Living room earlier ?
+Model's choice: When I was in the Living room earlier, there was a door leading to "Bedroom 1" in front of me.
+User message: And from which room were you coming from ?
+Model's choice: I was coming from the "Bedroom 1" when I entered the Living room earlier.
+User message: STOP

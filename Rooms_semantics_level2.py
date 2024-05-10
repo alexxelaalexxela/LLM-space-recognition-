@@ -44,7 +44,7 @@ conversation_history = [
 #Initialize position
 current_room = grid[0,2]
 
-with open('test_semantics_level_2.txt', 'a') as f:
+with open('test_semantics_level_2_gpt_3.5.txt', 'a') as f:
 
     while grid[4,3][0] == False:
         if (current_room[0] == False) or (current_room[1] == 'Entrance'):
@@ -57,7 +57,7 @@ with open('test_semantics_level_2.txt', 'a') as f:
 
         # Make the API request with the updated conversation history
         completion = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",
             messages=conversation_history
         )
 
@@ -100,7 +100,7 @@ with open('test_semantics_level_2.txt', 'a') as f:
                     exit()
 
                 completion = client.chat.completions.create(
-                model="gpt-4",
+                model="gpt-3.5-turbo",
                 messages=conversation_history
                 )
 

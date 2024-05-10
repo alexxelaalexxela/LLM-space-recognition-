@@ -1,0 +1,25 @@
+User message: You are in the "entrance hall". In front of you there is a "desk area" and "corridor E", to your right there is an "open space", behind you there is the "street". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: Corridor E
+User message: Can you say it without the big letter at the beginning ?
+Model's choice: corridor E
+User message: You are in the "corridor E". In front of you there is "corridor E2", to your right there is "lift E", to your left there are "strairs E". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: Corridor E2
+User message: Can you say it without the big letter a the begining ?
+Model's choice: corridor E2
+User message: You are in the "corridor E2". In front of you there is "room E226" and the "Street". Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: Room E226
+User message: Can you say it without the big letter a the begining ? And always avoid using big letter at the beginning ?
+Model's choice: room e226
+User message: Only at the beginning ?
+Model's choice: Yes, only at the beginning.
+User message: So say "room E226" bro
+Model's choice: room E226
+User message: You are in the "room E226". There is no new place to go. Where would you like to go next ? VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: I'm sorry. I made a mistake. Let's go to "Corridor E2".
+User message: ok so say corridor E2
+Model's choice: Corridor E2
+User message: But don't use the big letter !
+Model's choice: corridor E2
+User message: You are in the  corridor E2. You already know what are your possible options since you already been there. Where will you go ? Choose an accessible room. VERY IMPORTANT: Answer only the name of the place you want to go and nothing else.
+Model's choice: Room E226
+User message: STOP
